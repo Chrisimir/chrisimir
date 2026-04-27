@@ -10,9 +10,9 @@ E-commerce · Brand presence · Automation · Server infrastructure
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/chris-lund-58114311b/)](https://www.linkedin.com/in/chris-lund-58114311b/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris@cheatduck.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Chrisimir&style=for-the-badge&color=0e75b6)](https://github.com/Chrisimir)
 
 </div>
 
@@ -118,8 +118,8 @@ I don't just use AI tools — I integrate them into production systems and evalu
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Chrisimir&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisimir&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 
 </div>
 
