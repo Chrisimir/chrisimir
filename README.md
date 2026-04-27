@@ -118,7 +118,6 @@ I don't just use AI tools — I integrate them into production systems and evalu
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Chrisimir&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisimir&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 
 </div>
