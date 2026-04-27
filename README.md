@@ -1,4 +1,134 @@
-<h1 align="center">Hi 👋, I'm Chris</h1>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Chris+%F0%9F%91%8B;Web+Developer+%26+Systems+Architect;Automation+Engineer+%7C+Madrid%2C+Spain" alt="Typing SVG" />
+
+<br/>
+
+**I build the digital infrastructure of real businesses.**  
+E-commerce · Brand presence · Automation · Server infrastructure  
+*Music · Real estate · Product trading · Professional services*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.COM)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+## 🧭 What I Do
+
+I'm a freelance developer and systems architect based in **Madrid, Spain**. Over the years I've worked across multiple industries — building and automating the digital side of businesses that needed more than just a website. I handle the full picture: architecture, build, infrastructure, integrations, automation, and ongoing delivery.
+
+I bring a cross-industry perspective shaped by real projects in **music, real estate, international product trading, and professional services** — and I work fluidly in Danish, Spanish, and English.
+
+---
+
+## 💼 Areas of Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce
+- **Shopify** — store builds, theme customisation, app integrations
+- WooCommerce and other platforms as needed
+- ERP/SGA API integration, order sync, SKU/EAN data pipelines
+- Payment gateways, shipping logic, GDPR compliance
+
+### 🎵 Music & Media
+- Websites and digital presence for **bands and artists**
+- EPK pages, release pages, tour/event integration
+- **Music video** production and post-production
+- Automated publishing pipelines: YouTube, TikTok, Instagram Reels
+
+### 🏘 Real Estate & Trading
+- Web platforms and tooling for **real estate agencies**
+- Digital infrastructure for **international product trading companies**
+- B2B portals, product catalogues, process documentation
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Process Automation
+- End-to-end automation for order flows, reporting, content pipelines
+- Python pipeline architecture with modular, platform-specific components
+- LLM API integration (Claude, OpenAI) in real production workflows
+- Make.com, Zapier, and custom scripting
+
+### 🏗 Company Digital Structure
+- Full company tech stacks built from scratch — domain, hosting, email, CMS, analytics, legal compliance
+- VPS infrastructure via **Hetzner** and Vultr, managed through RunCloud
+- NGINX, MariaDB/MySQL, SSH hardening, Cloudflare, backup systems
+
+### 🌐 Web Development
+- JavaScript (ES6+), Node.js, Express, Vue.js, Nuxt.js, Python
+- REST API design & integration
+- Performance optimisation (TTFB, CLS), SEO, Search Console
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI & Investigator Experience
+
+I don't just use AI tools — I integrate them into production systems and evaluate them critically where results have real-world consequences.
+
+- Hands-on with **LLM APIs** (Claude, OpenAI) in live automation pipelines
+- Experienced in **prompt engineering**, structured output parsing, and model behaviour analysis
+- Active **beta tester and evaluator** of AI developer tools and consumer AI products
+- Grounded understanding of failure modes, data integrity risks, and compliance considerations
+
+> I'm actively interested in **beta testing programmes, red-teaming initiatives, and technical investigator roles** at institutions evaluating AI systems, fintech infrastructure, or digital service reliability — including **Banco de España**, the **CNMV**, and equivalent European bodies.
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+
+</div>
+
+---
+
+## 🌍 Based in Madrid &nbsp;·&nbsp; 🇩🇰 Danish native &nbsp;·&nbsp; 🇪🇸 Spanish fluent &nbsp;·&nbsp; 🇬🇧 English professional
+
+---
+
+<div align="center">
+<i>Open to freelance projects, investigator & evaluator roles, and beta programme participation.</i>
+</div>
